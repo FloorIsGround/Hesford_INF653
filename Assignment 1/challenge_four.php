@@ -7,7 +7,7 @@
 </head>
 <body>
 <?php
-    echo "Welcome to PHP!";
+    echo "Welcome to PHP!\n <br>";
     $name = "John";
     echo 'Hello, ' . $name;
 ?>
