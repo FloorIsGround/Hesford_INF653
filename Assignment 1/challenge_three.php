@@ -9,7 +9,8 @@
 <?php
     $greeting = 'Hello';
     $age = 22;
-    echo "Welcome to the PHP world!";
+    echo "Welcome to the PHP world!\n";
+    echo "<br>";
     Echo "Your age is " . $age;
     ?>
 </body>
