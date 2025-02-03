@@ -7,8 +7,8 @@
 </head>
 <body>
     <?php
-        echo "\"He said, \"PHP is fun!\" and left.\"";
-        echo "\nFirst Line \nSecond Line";
+        echo "\"He said, \"PHP is fun!\" and left.\" <br>";
+        echo "\nFirst Line <br> \nSecond Line"; // was unsure if I was able to use the <br> here for the multi-line but the new line escape characters are here
     ?>
 </body>
 </html>
